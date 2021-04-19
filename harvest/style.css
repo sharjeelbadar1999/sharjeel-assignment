@@ -1,0 +1,50 @@
+body
+{
+	background-color: rgb(240, 221, 239);
+
+
+}
+.frame
+{
+	margin-left: 300px;
+	background-color: white;
+	width: 700px;
+	height: 500px;
+	border-radius: 20px;
+}
+.image
+{
+	width: 350px;
+	height: 500px;
+	border-radius: 20px;
+}
+.frameRight
+{
+	margin-left: 370px;
+	margin-top: -500px;
+}
+p
+{
+	margin-top: -20px;
+	text-align: justify;
+	color: lightgrey;
+}
+
+.paragraph
+{
+	margin-top:  80px;
+	font-size: 18px;
+}
+
+
+button
+{
+	width: 180px;
+	height: 40px;
+	border-radius: 25px;
+	background-color: skyblue;
+	border-style: none;
+	color: white;
+	
+}
+

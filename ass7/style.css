@@ -1,0 +1,62 @@
+.firstbox
+{
+	margin-top: 100px;
+	margin-left: 200px;
+	background-color: rgb(227, 52, 93);
+	width: 200px;
+	height: 250px;
+}
+
+.secondbox
+{
+	margin-top: -130px;
+	margin-left: 500px;
+	background-color:rgb(144, 20, 163); ;
+	width: 200px;
+	height: 250px;
+}
+
+
+.thirdbox
+{
+	margin-left: 200px;
+	margin-top: -60px;
+	background-color: rgb(155, 170, 171);
+	width: 200px;
+	height: 250px;
+}
+
+.fourthbox
+{
+	margin-left: 500px;
+	margin-top: -130px;
+	background-color: rgb(104, 117, 166);
+	width: 200px;
+	height: 250px;
+}
+
+.image
+{
+	width: 170px;
+	margin-left: -15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+h2
+{
+	color: white;
+
+	margin-left: 50px;
+
+
+}

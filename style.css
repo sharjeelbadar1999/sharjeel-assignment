@@ -1,0 +1,33 @@
+body{
+	justify-content: center;
+	text-align: center;
+	background-image: url(bg2.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.main{
+	display: flex;
+	margin: auto;
+	margin-top: 100px;
+	height: 500px;
+	width: 450px;
+	justify-content: center;
+}
+.con{
+	display: flex;
+	flex-direction: column;
+}
+.btn{
+	text-transform: capitalize;
+	color: white;
+	background-color: #a03c30;
+	border: none;
+	font-size: 18px;
+	padding: 15px 40px;
+	margin: 10px;
+}
+.btn:hover{
+	color: #a03c30;
+	background-color: transparent;
+	border:2px solid #a03c30;
+}

@@ -1,0 +1,24 @@
+.blue
+{
+	background-color: rgb(38, 120, 252);
+	height: 500px;
+	width: 500px;
+	top: 0;
+	text-align: center;
+	margin-left: 0px;
+	margin-top: 0px;
+	
+	color: white;
+
+	
+}
+img
+{
+	width: 100px;
+	height: 100px;
+	border-radius: 100%
+}
+
+.image{
+	margin-top: 150px;
+}
